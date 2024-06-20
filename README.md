@@ -9,6 +9,9 @@ Testing on Arch/SteamOS/KDE
 Create an installer flatpak for Discovery
 Add a start menu right service for Kickoff
 Add a dolphin right click service for Dolphin
+Add more user feedback
+Create a user guide
 Add more consideration for user data
 Add compression for user data
 Adapt everything for different linux versions and applications
+Add better commenting and formating
